@@ -15,8 +15,8 @@ Hi there! I'm a **Senior Java Developer** passionate about building robust, scal
 - 🚀 **Passion Projects**: I love contributing to open-source and developing tools that make a difference. Check out my repositories for insights into my work!  
 
 - 📫 **Let's Connect**:  
-  - [LinkedIn](#)  
-  - [Email Me](mailto:your-email@example.com)  
+  - [LinkedIn](https://www.linkedin.com/in/sahilbajotra/)
+  - [Email Me](mailto:sbajotra504@gmail.com)  
 
 
 ## 🌐 Socials:
