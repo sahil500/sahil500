@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there! I'm a **Senior Java Developer** passionate about building robust, scalable, and efficient solutions. With years of experience crafting dynamic applications, I thrive on tackling complex problems and creating seamless user experiences. 
+Hi there! I'm a **Senior Java Developer** passionate about building robust, scalable, and efficient solutions. With years of experience crafting dynamic applications, I thrive on tackling complex problems and creating seamless user experiences.
 
 - 💼 **Current Role**: Freelance Senior Java Developer at **DevPeak Innovations**, where I work on diverse projects, leveraging cutting-edge technologies to deliver high-quality solutions.  
 - 🌟 **Previous Experience**: Java Developer Trainee at **Excellence Technologies**, where I honed my skills and developed a strong foundation in Java-based frameworks and software development best practices.  
