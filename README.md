@@ -11,7 +11,6 @@ Hi there! I'm a **Senior Java Developer** passionate about building robust, scal
   - **Databases**: MySQL, MongoDB  
 
 - 📚 **Always Learning**: Constantly exploring new technologies and keeping up with industry trends to stay ahead in the ever-evolving tech landscape.  
-
 - 🚀 **Passion Projects**: I love contributing to open-source and developing tools that make a difference. Check out my repositories for insights into my work!  
 
 - 📫 **Let's Connect**:  
